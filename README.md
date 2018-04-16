@@ -11,8 +11,6 @@
 
 - This is a basic counter with fast moving digits for the M5Stack.
 
-- It is nice to watch the digits flash by... 
-
 - The speed of the digits seems to suggest an urgent and important thing is about to happen !!
 
 - More features could be added: sound, font, font colour, background colour, etc.
