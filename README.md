@@ -3,7 +3,7 @@
 <br />
 <br />
 
-![M5Stack Counter](M5Stack-Counter.png) 
+![M5Stack Counter](M5StackCounter.png) 
 
 <br />
 
