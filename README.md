@@ -17,7 +17,7 @@
 
 - [Video demonstration](https://twitter.com/ksasao/status/970196248836755456 "Video Demonstration")
 
-- This code was written by by [Ksasao](https://gist.github.com/ksasao/c67d6fff5641e6fd40c7705352f6759e)
+- This code was written by [Kazuhiro Sasao](https://gist.github.com/ksasao/c67d6fff5641e6fd40c7705352f6759e)
 
 - "Do yourself a favour" and view his impressive projects on Twitter - accessible via the video demonstration link above.
 
