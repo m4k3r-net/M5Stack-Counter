@@ -9,9 +9,9 @@
 
 ## About
 
-- This is a basic counter with fast moving digits for the M5Stack.
+- This is a basic counter with fast moving digits, for the M5Stack ESP32.
 
-- The speed of the digits seems to suggest an urgent and important thing is about to happen !!
+- The furious speed of the digits conveys the sense that an urgent and important thing is in process or about to happen !!
 
 - More features could be added: sound, font, font colour, background colour, etc.
 
