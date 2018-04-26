@@ -3,7 +3,13 @@
 <br />
 <br />
 
-![M5Stack Counter](M5StackCounter.png) 
+
+<p align="center">
+ 
+<img src="https://github.com/PartsandCircuits/M5Stack-Counter/blob/master/M5StackCounter.png" width="290">
+
+</p>
+
 
 <br />
 
